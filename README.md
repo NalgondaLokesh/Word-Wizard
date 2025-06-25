@@ -17,7 +17,7 @@
 
 ## 🔗 Demo
 
-🌐 [Live Demo](#) — *Deploy link here if hosted on GitHub Pages or Vercel*
+🌐 [Live Demo](https://word-wizard-seven.vercel.app) — *Deploy link here if hosted on GitHub Pages or Vercel*
 
 ---
 
